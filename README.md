@@ -3,6 +3,7 @@ Setting up Homebrew, Atom, Python3, pipenv, Node, Serverless, awscli, Git, and s
 
 
 ![CloudSOC logo](https://1.bp.blogspot.com/-YaqntajfnjI/YPcbjtDTuRI/AAAAAAAAAH4/PPe7LLbuo6sipM1cWVIT5FdBC7wzPG54gCLcBGAsYHQ/s150/cloudsoc.png)
+
 To install Homebrew go to [Homebrew](http://brew.sh) Home page or  run the install script on the command line below 
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
