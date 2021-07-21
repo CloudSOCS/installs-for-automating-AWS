@@ -1,8 +1,8 @@
-# installs-for-automating-AWS
+![CloudSOC logo](https://1.bp.blogspot.com/-YaqntajfnjI/YPcbjtDTuRI/AAAAAAAAAH4/PPe7LLbuo6sipM1cWVIT5FdBC7wzPG54gCLcBGAsYHQ/s150/cloudsoc.png)
 Setting up Homebrew, Atom, Python3, pipenv, Node, Serverless, awscli, Git, and ssh for Automating AWS With Python
 
 
-![CloudSOC logo](https://1.bp.blogspot.com/-YaqntajfnjI/YPcbjtDTuRI/AAAAAAAAAH4/PPe7LLbuo6sipM1cWVIT5FdBC7wzPG54gCLcBGAsYHQ/s150/cloudsoc.png)
+
 
 To install Homebrew go to [Homebrew](http://brew.sh) Home page or  run the install script on the command line below 
 ```
