@@ -23,6 +23,7 @@ To install Atom using Homebrew Cask you can run the following simple command:
  Atom is a highly customizable text editor. With the right plugins, it can approach the functionality of an IDE.  Text editors, also called code editors, are applications used by developers to write code. They highlight and format your code so that it’s easier to read and understand.
  
  [![](https://1.bp.blogspot.com/-JYGztvQhMqc/YO3KEr8WGrI/AAAAAAAAAGE/5ZGuPa6xgqwik-AE6o8LQNsOGeIewrn7QCLcBGAsYHQ/w400-h249/open-atom-text-editor.png)](https://1.bp.blogspot.com/-JYGztvQhMqc/YO3KEr8WGrI/AAAAAAAAAGE/5ZGuPa6xgqwik-AE6o8LQNsOGeIewrn7QCLcBGAsYHQ/s1027/open-atom-text-editor.png)
+ 
  Install Python3
 ----------------
 You can automate nearly everything with Python. From sending emails and filling out PDFs and CSVs  to interacting with external APIs and sending HTTP requests. Whatever your idea, it’s more than likely that you can pull it off using Python along with its modules and tools.
