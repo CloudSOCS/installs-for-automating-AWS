@@ -5,9 +5,9 @@ Setting up Homebrew, Atom, Python3, pipenv, Node, Serverless, awscli, Git, and s
 
 
 
-To install Homebrew go to [Homebrew](http://brew.sh) Home page or  run the install script on the command line below 
+To install Homebrew go to [Homebrew](http://brew.sh) Home page or  run the install script on the command line below
 ```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 If you don’t have Apples Xcode Command Line Tools installed it will alert you to that it will install it and carry on with the Homebrew installation and download the Command Line Tools you will need to enter your admin password at some point.
 To check for any issues with Homebrew run:
@@ -18,12 +18,12 @@ Homebrew Cask extends Homebrew. Bringing its simplicity and speed to the install
 
 To install Atom using Homebrew Cask you can run the following simple command:
 ```
- brew install atom 
+ brew install atom
  ```
  Atom is a highly customizable text editor. With the right plugins, it can approach the functionality of an IDE.  Text editors, also called code editors, are applications used by developers to write code. They highlight and format your code so that it’s easier to read and understand.
- 
+
  [![](https://1.bp.blogspot.com/-JYGztvQhMqc/YO3KEr8WGrI/AAAAAAAAAGE/5ZGuPa6xgqwik-AE6o8LQNsOGeIewrn7QCLcBGAsYHQ/w400-h249/open-atom-text-editor.png)](https://1.bp.blogspot.com/-JYGztvQhMqc/YO3KEr8WGrI/AAAAAAAAAGE/5ZGuPa6xgqwik-AE6o8LQNsOGeIewrn7QCLcBGAsYHQ/s1027/open-atom-text-editor.png)
- 
+
  Install Python3
 ----------------
 You can automate nearly everything with Python. From sending emails and filling out PDFs and CSVs  to interacting with external APIs and sending HTTP requests. Whatever your idea, it’s more than likely that you can pull it off using Python along with its modules and tools.
@@ -31,11 +31,11 @@ You can automate nearly everything with Python. From sending emails and filling 
 Tons of libraries created for Python make the language really powerful, allowing developers to tackle everything from machine learning and web scraping to managing your computer’s operating system.
 
 ```
-brew install python3 
+brew install python3
 ```
 Also with the install of python3, pip should have been installed, to make sure run this in terminal
 ```
-pip3 --version 
+pip3 --version
 ```
 Now we will install a package called pipenv
 -------------------------------------------
@@ -47,11 +47,11 @@ Install Node JS
 ------------------------------------------
 [Node.js](https://bootcamp.berkeley.edu/resources/coding/learn-node-js/introduction-to-node-js/) is an open-source, cross-platform, dynamic JavaScript runtime environment. As a runtime environment, Node.js has the software and hardware infrastructure necessary to execute a program in real-time. This functionality makes it an invaluable tool for those who want to write back end (server-side) programs in JavaScript.
 ```
-brew install node 
+brew install node
 ```
 Now that we have installed node, we can use npm an online repository for the publishing of open-source Node.js projects; second, it is a command-line utility for interacting with said repository that aids in package installation, version management, and dependency management.
 
-Install Serverless 
+Install Serverless
 -----------------------------
 Serverless computing (or serverless for short), is an execution model where the cloud provider (AWS, Azure, or Google Cloud) is responsible for executing a piece of code by dynamically allocating the resources. And only charging for the amount of resources used to run the code. The code is typically run inside stateless containers that can be triggered by a variety of events including http requests, database events, queuing services, monitoring alerts, file uploads, scheduled events (cron jobs), etc. The code that is sent to the cloud provider for execution is usually in the form of a function. Serverless is sometimes referred to as “Functions as a Service” or _“_FaaS_”_.
 ```
@@ -81,7 +81,7 @@ The SSH, Secure Shell, is a remote management protocol through which users can b
  Ssh-keygen is a tool for creating new authentication key pairs for SSH. Such key pairs are used for automating logins, single sign-on, and for authenticating hosts.  
  The simplest way to generate a key pair is to run
 
- ssh-keygen 
+ ssh-keygen
 
 without arguments. In this case, it will prompt for the file in which to store keys.
 
@@ -115,4 +115,4 @@ Then you'll be prompted to enter a password:
 ```
 You now have a public and private SSH key pair you can use to access remote servers and to handle authentication for command line programs like Git.
 
- Next up will be how to set up a Git repository.
+ 
