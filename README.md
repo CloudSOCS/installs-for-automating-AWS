@@ -1,4 +1,4 @@
-![CloudSOC logo](/pic/cloudsoc.png)
+![CloudSOC logo](/pic/cloudsocs.png)
 
 Setting up Homebrew, Atom, Python3, pipenv, Node, Serverless, awscli, Git, and ssh for Automating AWS With Python
 
